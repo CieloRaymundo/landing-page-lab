@@ -32,9 +32,14 @@ h2{
 ol{
     font-size:135%;
 }
+
+img{
+    height: 27%;
+    width:27%;
+}
 #bottom {
     margin:0 12%;
-    height:500px;
+    height:700px;
     /*background-color:blue;*/
     overflow:hidden;
 }
